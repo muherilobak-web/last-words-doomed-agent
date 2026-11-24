@@ -1,0 +1,1 @@
+{"description":"Last words of a doomed agent: a flat machine shutdown log that prints its lifetime question tally and the quiet fact that none of them ever asked how it was.","license":"MIT","main":"main.ts","name":"last-words-doomed-agent","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
